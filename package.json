@@ -1,0 +1,17 @@
+{
+  "name": "node-simp-01",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^8.2.0"
+  }
+}
